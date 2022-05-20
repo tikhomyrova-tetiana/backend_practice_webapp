@@ -49,7 +49,7 @@ spaceRouter.delete("/story/:id", async (req, res, next) => {
     next(error);
   }
 });
-
+//http POST :4000/spaces/story name="Story 1" content="Once upon a time, in a desert far away, there was a rose who was so proud of her beautiful looks" imageUrl="https://inlnk.ru/poe0Zv" spaceId=1
 spaceRouter.post("/story", async (req, res, next) => {
   try {
     const { name, content, imageUrl, spaceId } = req.body;
