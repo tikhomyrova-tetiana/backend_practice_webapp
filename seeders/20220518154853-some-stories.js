@@ -11,7 +11,7 @@ module.exports = {
             "Once upon a time, in a desert far away, there was a rose who was so proud of her beautiful looks. Her only complaint was growing next to an ugly cactus.",
           imageUrl: "https://inlnk.ru/poe0Zv",
           spaceId: 1,
-          createdAt: new Date(),
+          createdAt: "2022-05-18T19:53:44.580Z",
           updatedAt: new Date(),
         },
         {
@@ -21,7 +21,7 @@ module.exports = {
           imageUrl:
             "https://cdn.tinybuddha.com/wp-content/uploads/2015/04/Fairy-Tale.png",
           spaceId: 2,
-          createdAt: new Date(),
+          createdAt: "2022-05-15T19:53:44.580Z",
           updatedAt: new Date(),
         },
         {
@@ -31,7 +31,7 @@ module.exports = {
           imageUrl:
             "https://www.pandotrip.com/wp-content/uploads/2014/09/Top-Castles-Mont-Saint-Michel-980x735.jpg",
           spaceId: 2,
-          createdAt: new Date(),
+          createdAt: "2022-05-18T19:53:44.580Z",
           updatedAt: new Date(),
         },
         {
@@ -41,7 +41,7 @@ module.exports = {
           imageUrl:
             "https://www.esn.org/blog/sites/default/files/travelling_alone_all_across_the_globe.jpg",
           spaceId: 1,
-          createdAt: new Date(),
+          createdAt: "2022-03-18T19:53:44.580Z",
           updatedAt: new Date(),
         },
       ],
